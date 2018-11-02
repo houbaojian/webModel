@@ -2,7 +2,7 @@
 
 ```bash
 # Clone project
-git clone https://github.com/wangweima/admaxT.git
+git clone https://github.com/houbaojian/webModel.git
 
 # Install dependencies
 npm install
